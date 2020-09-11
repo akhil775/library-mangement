@@ -1,3 +1,3 @@
 # library-mangement
 ## my project
-[MY PROJECT VIEW]( https://akhil775.github.io/librarymangement/.)
+[VIEW MY PROJECT ]( https://akhil775.github.io/librarymangement/.)
